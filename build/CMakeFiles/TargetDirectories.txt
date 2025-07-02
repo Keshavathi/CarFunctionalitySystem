@@ -1,3 +1,0 @@
-C:/Downloads/CarFunctionSystem/build/CMakeFiles/CarSystem.dir
-C:/Downloads/CarFunctionSystem/build/CMakeFiles/edit_cache.dir
-C:/Downloads/CarFunctionSystem/build/CMakeFiles/rebuild_cache.dir
