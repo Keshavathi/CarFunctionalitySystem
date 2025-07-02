@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Downloads/CarFunctionSystem/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CarSystem.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CarSystem.dir\\src\\main.cpp.obj -c C:\\Downloads\\CarFunctionSystem\\src\\main.cpp",
+  "file": "C:/Downloads/CarFunctionSystem/src/main.cpp",
+  "output": "CMakeFiles/CarSystem.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Downloads/CarFunctionSystem/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CarSystem.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CarSystem.dir\\src\\Car.cpp.obj -c C:\\Downloads\\CarFunctionSystem\\src\\Car.cpp",
+  "file": "C:/Downloads/CarFunctionSystem/src/Car.cpp",
+  "output": "CMakeFiles/CarSystem.dir/src/Car.cpp.obj"
+}
+]
